@@ -1,0 +1,5 @@
+server:
+  port: 9527
+spring:
+  application:
+    name: springcloud-user-web #不要使用下划线
